@@ -1,5 +1,5 @@
 # keycloak-vk
-Keycloak vk.com OAuth provider
+Keycloak vk.com OAuth provider (works well, ignore ugly README)
 
 
 I've installed it as a wildfly module:
